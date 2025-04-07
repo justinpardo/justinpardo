@@ -1,0 +1,41 @@
+# Hey there, I'm Justin 👋
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=justinpardo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=kacho_ga&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=justinpardo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=kacho_ga&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+I'm passionate about **building clean, dynamic applications** and exploring the intersection of **AI, optimization, and front-end design**.  
+Currently, I'm working on projects related to **PowerPoint add-ins**, **portfolio websites**, and **machine learning integration**.
+
+---
+
+## 🛠️ Technologies & Tools
+- JavaScript | HTML | CSS
+- Python | Verilog | MATLAB
+- OpenAI API | Office.js | Node.js
+
+---
+
+
+
+
+---
+
+## 🎯 Current Focus
+- Building a portfolio website with **JavaScript/HTML/CSS** (no AI generators!)
+- Developing an **Adobe Express to PowerPoint** converter tool
+- Diving deeper into **large-scale computational algorithms** and **hybrid quantum-classical models**
+
+---
+
+## 🌱 Fun Facts
+- 🎨 I'm designing tools that help presentations *look better and work smarter*.
+- 📚 Always learning something new about *optimization, AI, or front-end UX*.
+- 🏋️‍♂️ Also working on fitness goals for the summer 😎.
+
+---
+
+## 📫 Let's Connect!
+[LinkedIn](https://www.linkedin.com/in/your-link/) | [Portfolio Website](https://your-portfolio-link.com)
+
