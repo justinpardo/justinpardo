@@ -30,9 +30,9 @@ Currently, I'm working on projects related to **PowerPoint add-ins**, **portfoli
 ---
 
 ## 🌱 Fun Facts
-- 🎨 I'm designing tools that help presentations *look better and work smarter*.
-- 📚 Always learning something new about *optimization, AI, or front-end UX*.
-- 🏋️‍♂️ Also working on fitness goals for the summer 😎.
+- 🎨 I'm a big fan of research orientated studies.
+- 📚 Always trying to learn something new.
+- 🏋️‍♂️ When I'm not coding I'm  playing tennis or working out.
 
 ---
 
