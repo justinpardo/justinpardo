@@ -11,21 +11,16 @@ Currently, I'm working on projects related to **PowerPoint add-ins**, **portfoli
 ---
 
 ## 🛠️ Technologies & Tools
-- JavaScript | HTML | CSS
-- Python | Verilog | MATLAB
+- JavaScript | HTML | CSS | MongoDB | Node | Typescript | React
+- Python | Verilog | MATLAB | QiSkit | Rust | Swift | 
 - OpenAI API | Office.js | Node.js
 
 ---
 
-
-
-
----
-
 ## 🎯 Current Focus
-- Building a portfolio website with **JavaScript/HTML/CSS** (no AI generators!)
-- Developing an **Adobe Express to PowerPoint** converter tool
-- Diving deeper into **large-scale computational algorithms** and **hybrid quantum-classical models**
+- Building a portfolio website with **TypeScript/HTML/CSS** (no AI generators!)
+- Finishing my AWS certification
+- Diving deeper into **QiSKiT** and **hybrid quantum-classical models** through projects, for my Quantum class next semester
 
 ---
 
@@ -37,5 +32,5 @@ Currently, I'm working on projects related to **PowerPoint add-ins**, **portfoli
 ---
 
 ## 📫 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/your-link/) | [Portfolio Website](https://your-portfolio-link.com)
+[LinkedIn](https://www.linkedin.com/in/your-link/) 
 
