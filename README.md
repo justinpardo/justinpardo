@@ -5,8 +5,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=justinpardo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=kacho_ga&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-I'm passionate about **building clean, dynamic applications** and exploring the intersection of **AI, optimization, and front-end design**.  
-Currently, I'm working on projects related to **PowerPoint add-ins**, **portfolio websites**, and **machine learning integration**.
+I'm passionate about **learning more about programming** and am hoping to contribute to the future of **Computational Research, optimization, and Quantum Computing**.  
+Currently, I'm working on projects related to **my protfolio**, **Contract web-design**, and **quantum computing**.
 
 ---
 
